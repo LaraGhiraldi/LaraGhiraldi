@@ -1,6 +1,6 @@
 ### Bem vindo ao meu perfil 🤍
 
-"Meu nome é Lara Ghiraldi"
+_Meu nome é Lara Ghiraldi_
 
 - Estou estudando na Alura
 - Estou me desenvolvendo no JavaScript
